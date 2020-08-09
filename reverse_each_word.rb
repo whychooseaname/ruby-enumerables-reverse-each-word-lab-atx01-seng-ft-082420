@@ -1,5 +1,5 @@
 require 'pry'
 
-def reversse_each_word.split 
+def reversse_each_word(array)
   binding.pry
 end
